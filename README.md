@@ -1,6 +1,5 @@
 # MCF
-Tools Krek
-
+Install Bahan
 
 $ pkg update && apt upgrade
 
@@ -15,6 +14,9 @@ $ pip install rich bs4
 $ pip install --upgrade pip
 
 $ git clone https://github.com/SttefaniXD/MCF
+
 $ ls ( L kecil )
+
 $ cd MTF
+
 $ python run.py
